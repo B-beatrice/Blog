@@ -88,7 +88,7 @@ header{
 }
 
 .star{
-    color: orange;
+    color: rgb(153, 76, 254);
 }
 
 input[type="text"], select, textarea{
